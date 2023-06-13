@@ -19,6 +19,5 @@
 <p>Challenge 15 - Iterate over String</p>
 <p>Challenge 16 - Swap values of the two variables</p>
 <p>Challenge 17 - IIFE (Immediately Invoked Function Expression)</p>
-<p>Challenge 18 - Classes</p>
-<p>Challenge 19 - Iterate over Object</p>
+<p>Challenge 18 - Iterate over Object</p>
 <p>Challenge 20 - Sum of positive and negative numbers</p>
